@@ -1,0 +1,18 @@
+375  [Test worker] INFO  c.e.p.s.impl.WorkerServiceImpl –
+                create new worker
+420  [Test worker] INFO  c.e.p.s.impl.WorkerServiceImpl –
+                find worker with id 1
+1070 [Test worker] INFO  c.e.p.s.impl.WorkerServiceImpl –
+                find all workers
+1146 [Test worker] INFO  c.e.p.s.impl.WorkerServiceImpl –
+                find all workers
+550  [Test worker] INFO  c.e.p.s.impl.ManufactureServiceImpl –
+                find all manufactures
+585  [Test worker] INFO  c.e.p.s.impl.ManufactureServiceImpl –
+                find all manufactures
+1388 [Test worker] INFO  c.e.p.s.impl.ManufactureServiceImpl –
+                find manufacture with id 1
+378  [Test worker] INFO  c.e.p.s.impl.ManufactureServiceImpl –
+                find manufacture with id 1
+374  [Test worker] INFO  c.e.p.s.impl.ManufactureServiceImpl –
+                create new manufacture
